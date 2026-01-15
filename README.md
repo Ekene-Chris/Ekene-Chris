@@ -4,13 +4,15 @@
 
 I'm a Senior DevOps Engineer at Andela, where I architect enterprise-grade Azure infrastructure and Kubernetes deployments. Based in Abuja, Nigeria, I'm on a mission to help African engineers build world-class skills through [Teleios](https://jointeleios.com), a mentoring initiative I founded.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent)](https://github.com/yourusername)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&langs_count=8&card_width=320&theme=transparent)](https://github.com/yourusername)
+🌐 **[ekenechris.com](https://ekenechris.com)** | 📝 **[Medium](https://medium.com/@ekene.c.chris)**
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ekene-Chris&show_icons=true&theme=transparent)](https://github.com/Ekene-Chris)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ekene-Chris&layout=compact&langs_count=8&card_width=320&theme=transparent)](https://github.com/Ekene-Chris)
 
 ## 🚀 What I Do
 
 **Day Job:** Building production infrastructure at scale
-- Architecting **Azure Managed Applications** with Kubernetes, Terraform, and ArgoCD
+- Architecting **Cloud Native Applications on Azure** with Kubernetes, Terraform, and ArgoCD
 - Modernizing legacy **Service Fabric** deployments to cloud-native architectures
 - Implementing GitOps workflows and infrastructure-as-code best practices
 - Solving complex deployment failures and infrastructure challenges
@@ -25,13 +27,14 @@ I'm a Senior DevOps Engineer at Andela, where I architect enterprise-grade Azure
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Service Fabric](https://img.shields.io/badge/Service%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## 🌟 Current Focus (2026 Strategy: Undeniable Impact)
 
@@ -43,9 +46,14 @@ I'm a Senior DevOps Engineer at Andela, where I architect enterprise-grade Azure
 
 ## 📚 Technical Writing & Speaking
 
-I write about production DevOps challenges, infrastructure architecture, and helping engineers level up their skills:
+I write about production DevOps challenges, infrastructure architecture, and helping engineers level up their skills.
 
-**Recent Articles:**
+**Published on Medium** | [Read all 6 articles →](https://medium.com/@ekene.c.chris)
+- [Article Title 1](https://medium.com/@ekene.c.chris/communication-patterns-that-global-teams-expect-6fd690fbb113)
+- [Article Title 2](https://medium.com/@ekene.c.chris/technical-documentation-standards-for-global-teams-b16b6b82fda8)
+- [Article Title 3](https://medium.com/@ekene.c.chris/remote-collaboration-tools-and-techniques-that-impress-international-employers-01e8b4ee99ff)
+- [Article Title 4](https://medium.com/@ekene.c.chris/system-design-skills-that-show-youre-senior-ready-279719f57c92)
+- [Article Title 5](https://medium.com/@ekene.c.chris/architecting-multi-region-kubernetes-deployments-beyond-basic-replication-c427566a2a2f)
 - [Coming soon] GitOps patterns with ArgoCD in production
 - [Coming soon] Troubleshooting Kubernetes deployment failures at scale
 - [Coming soon] Infrastructure as Code best practices with Terraform
@@ -55,6 +63,11 @@ I write about production DevOps challenges, infrastructure architecture, and hel
 
 *Follow my journey as I build in public and share production lessons learned.*
 
+## 🤝 Open Source Contributions
+
+**CNCF Contributor - ArgoCD** | January 2026
+- *First contribution to a major CNCF graduated project*
+
 ## 🎯 Community & Impact
 
 **Founder, Teleios** | 2025 - Present
@@ -62,23 +75,23 @@ I write about production DevOps challenges, infrastructure architecture, and hel
 - Developing DevOps competency assessments and production-ready templates
 - Creating pathways for African engineers to work on world-class projects
 
-**CNCF Contributor** | 2025 - Present
-- Contributing to cloud-native open source projects
+**CNCF Contributor** | 2026 - Present
+- Active contributor to ArgoCD and other cloud-native open source projects
 - Building tools that solve real infrastructure problems
 - Engaging with the global Kubernetes and DevOps community
 
 ## 🔥 GitHub Activity
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ekene-chris&theme=cobalt)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ekene-Chris&theme=cobalt)
 
 ## 💬 Let's Connect
 
 I'm always excited to connect with fellow DevOps engineers, open source contributors, and anyone passionate about building systems at scale or empowering the next generation of engineers.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-[![Website](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourprofile)
+[![Website](https://img.shields.io/badge/Website-ekenechris.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ekenechris.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekene-chris)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iamekenechris)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ekene.c.chris)
 
 ---
 
