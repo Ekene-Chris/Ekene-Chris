@@ -6,9 +6,6 @@ I'm a Senior DevOps Engineer at Andela, where I architect enterprise-grade Azure
 
 🌐 **[ekenechris.com](https://ekenechris.com)** | 📝 **[Medium](https://medium.com/@ekene.c.chris)**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ekene-Chris&show_icons=true&theme=transparent)](https://github.com/Ekene-Chris)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ekene-Chris&layout=compact&langs_count=8&card_width=320&theme=transparent)](https://github.com/Ekene-Chris)
-
 ## 🚀 What I Do
 
 **Day Job:** Building production infrastructure at scale
@@ -49,11 +46,11 @@ I'm a Senior DevOps Engineer at Andela, where I architect enterprise-grade Azure
 I write about production DevOps challenges, infrastructure architecture, and helping engineers level up their skills.
 
 **Published on Medium** | [Read all 6 articles →](https://medium.com/@ekene.c.chris)
-- [Article Title 1](https://medium.com/@ekene.c.chris/communication-patterns-that-global-teams-expect-6fd690fbb113)
-- [Article Title 2](https://medium.com/@ekene.c.chris/technical-documentation-standards-for-global-teams-b16b6b82fda8)
-- [Article Title 3](https://medium.com/@ekene.c.chris/remote-collaboration-tools-and-techniques-that-impress-international-employers-01e8b4ee99ff)
-- [Article Title 4](https://medium.com/@ekene.c.chris/system-design-skills-that-show-youre-senior-ready-279719f57c92)
-- [Article Title 5](https://medium.com/@ekene.c.chris/architecting-multi-region-kubernetes-deployments-beyond-basic-replication-c427566a2a2f)
+- [Communication Patterns That Global Teams Expect](https://medium.com/@ekene.c.chris/communication-patterns-that-global-teams-expect-6fd690fbb113)
+- [Technical Documentation Standards for Global Teams](https://medium.com/@ekene.c.chris/technical-documentation-standards-for-global-teams-b16b6b82fda8)
+- [Remote Collaboration Tools and Techniques That Impress International Employers](https://medium.com/@ekene.c.chris/remote-collaboration-tools-and-techniques-that-impress-international-employers-01e8b4ee99ff)
+- [System Design Skills That Show You’re Senior-Ready](https://medium.com/@ekene.c.chris/system-design-skills-that-show-youre-senior-ready-279719f57c92)
+- [Architecting Multi-Region Kubernetes Deployments: Beyond Basic Replication](https://medium.com/@ekene.c.chris/architecting-multi-region-kubernetes-deployments-beyond-basic-replication-c427566a2a2f)
 - [Coming soon] GitOps patterns with ArgoCD in production
 - [Coming soon] Troubleshooting Kubernetes deployment failures at scale
 - [Coming soon] Infrastructure as Code best practices with Terraform
